@@ -243,12 +243,7 @@ python main.py export --output results.md
 6. **Evaluation** - Add retrieval and answer quality metrics
 7. **Hybrid Search** - Combine semantic + keyword search
 
-## 📝 License
-
-MIT License - Free for educational and commercial use.
-
 ## 🤝 Contributing
-
 Contributions welcome! Please:
 1. Fork the repository
 2. Create a feature branch
